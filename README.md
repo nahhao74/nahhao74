@@ -68,7 +68,7 @@ My current work focuses on UAV disturbance detection and compensation, reinforce
 | Project                                         | Description                                                                                                                                                                                                         | Technologies                        | Repository                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------ |
 | **UAV Detect and Respond Pipeline**             | A modular pipeline for wind detection, disturbance estimation, and compensation on PX4-based UAVs. The system includes AURA for detection, WISE for disturbance estimation, and AEGIS for constrained compensation. | ROS 2, PX4, Gazebo, Python, C++     | [View project](YOUR_REPOSITORY_LINK) |
-| **Autonomous UAV using Reinforcement Learning** | Reinforcement-learning-based UAV navigation and obstacle avoidance in simulated environments.                                                                                                                       | Python, PyTorch, ROS 2, Gazebo, PX4 | [View project](YOUR_REPOSITORY_LINK) |
+| **Autonomous Omni using SLAM, Path-finding and Obstacle Avoidance** | Omni Robot using Navigation and obstacle avoidance in simulated environments.                                                                                                                       | Python, PyTorch, ROS 2, Gazebo, PX4 | [View project](YOUR_REPOSITORY_LINK) |
 | **Two-Wheel Self-Balancing Robot**              | A two-wheel robot using LQR for balance control and PID control for motion and yaw.                                                                                                                                 | ESP32/STM32, C++, MATLAB, LQR, PID  | [View project](YOUR_REPOSITORY_LINK) |
 | **Rotary Inverted Pendulum**                    | Modeling and control of a rotary inverted pendulum using cascade PID, LQR, and MPC approaches.                                                                                                                      | MATLAB, Simulink, ESP32, C++        | [View project](YOUR_REPOSITORY_LINK) |
 | **DC Motor Intelligent Control**                | Cascade position–velocity control with PID tuning and neural-network-assisted gain prediction.                                                                                                                      | ESP32, MATLAB, Python, ANN          | [View project](YOUR_REPOSITORY_LINK) |
@@ -96,7 +96,7 @@ My current work focuses on UAV disturbance detection and compensation, reinforce
 
 ## 🎯 Current Areas of Interest
 
-* Autonomous UAV navigation and disturbance rejection
+* Autonomous AGV navigation and disturbance rejection
 * Reinforcement learning for robotic systems
 * Linear Quadratic Regulator and Model Predictive Control
 * Disturbance observers and robust control
@@ -109,7 +109,7 @@ My current work focuses on UAV disturbance detection and compensation, reinforce
 ## 📫 Contact
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:nahhao74@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -124,10 +124,3 @@ My current work focuses on UAV disturbance detection and compensation, reinforce
 
 ---
 
-<div align="center">
-
-### “Turning control theory into intelligent robotic systems.”
-
-![Profile Views](https://komarev.com/ghpvc/?username=nahhao74\&style=for-the-badge)
-
-</div>
