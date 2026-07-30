@@ -74,25 +74,6 @@ My current work focuses on UAV disturbance detection and compensation, reinforce
 | **DC Motor Intelligent Control**                | Cascade position–velocity control with PID tuning and neural-network-assisted gain prediction.                                                                                                                      | ESP32, MATLAB, Python, ANN          | [View project](YOUR_REPOSITORY_LINK) |
 | **Risk-Aware Highway RL Agent**                 | A reinforcement-learning agent for lane changing, collision avoidance, and risk-aware autonomous driving.                                                                                                           | Python, PyTorch, Highway-env, PPO   | [View project](YOUR_REPOSITORY_LINK) |
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nahhao74&show_icons=true&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahhao74&layout=compact&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahhao74&hide_border=true" />
-
-</div>
-
----
 
 ## 🎯 Current Areas of Interest
 
